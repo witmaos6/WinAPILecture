@@ -1,0 +1,14 @@
+﻿  unity_W9533A2DC2CQF32E.cpp
+C:\Users\159rj\source\repos\WinAPILecture\Client\CScene_Start.cpp(111,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Unity/unity_W9533A2DC2CQF32E.cpp')
+  
+C:\Users\159rj\source\repos\WinAPILecture\Client\CScene_Start.cpp(110,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Unity/unity_W9533A2DC2CQF32E.cpp')
+  
+C:\Users\159rj\source\repos\WinAPILecture\Client\CScene_Start.cpp(109,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Unity/unity_W9533A2DC2CQF32E.cpp')
+  
+C:\Users\159rj\source\repos\WinAPILecture\Client\CScene_Start.cpp(108,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Unity/unity_W9533A2DC2CQF32E.cpp')
+  
+  Client.vcxproj -> C:\Users\159rj\source\repos\WinAPILecture\Output\bin_debug\Client.exe
